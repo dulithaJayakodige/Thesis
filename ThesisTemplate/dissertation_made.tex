@@ -1,0 +1,206 @@
+\documentclass[12pt]{hamptondissertation-s}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{colortbl}
+\usepackage{bm}
+\usepackage{multirow}
+\usepackage{afterpage}
+%\usepackage{natbib}
+\usepackage[printonlyused]{acronym}
+\usepackage{cite}
+
+\usepackage{caption}
+\usepackage{subcaption}
+ \usepackage{url}
+ \usepackage{makecell}
+ \usepackage[bottom]{footmisc}
+ %\usepackage{slashbox}
+%\usepackage{graphicx}
+
+
+\usepackage{float}
+\usepackage{color}
+\usepackage{fancybox}
+\usepackage{hhline}
+\usepackage{dcolumn}
+\usepackage{textcomp}
+\usepackage{epsfig,graphics,graphicx}
+\usepackage{amsfonts,amssymb,amsmath}
+\usepackage{pifont}
+\usepackage{bm}
+\usepackage{longtable} 
+\usepackage{appendix}
+\usepackage{lscape}
+\usepackage[mathscr]{euscript}
+\usepackage{mathrsfs}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{color} 
+\usepackage{placeins}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{booktabs}
+%\usepackage{dsfont}
+\usepackage{slashed}
+\usepackage[dvipsnames]{xcolor}
+%\usepackage{ytableau}
+\newcommand{\reales}{{\rm R}\hspace{-1ex}\rule{0.1mm}{1.5ex}\hspace{1ex}}
+\def\tstrut{\vrule height2.5ex depth0pt width0pt} % used in tables
+\def\jtstrut{\vrule height5ex depth0pt width0pt} % used in tables
+\newcommand{\fr}{\frac}
+
+\usepackage{setspace}
+%\usepackage[nopar]{lipsum}
+
+%\usepackage{classicthesis}
+%\numberwithin{equation}{chapter}
+\newcommand{\beq}{\begin{equation}}
+\newcommand{\eeq}{\end{equation}}
+\newcommand{\bea}{\begin{eqnarray}}
+\newcommand{\eea}{\end{eqnarray}}
+\newcommand{\zero}{{(0)}}
+\newcommand{\one}{{(1)}}
+\newcommand{\eps}{\epsilon}
+\newcommand{\ord}[1]{{\cal{O}}\left( #1 \right)}
+\newcommand{\B}{{\bf B}}
+\newcommand{\Bdag}{{\bf B^\dagger}}
+\newcommand{\p}{{\mathfrak{p}}^0}
+\newcommand{\cgsu}[3]{ \langle #1 #2 \mid #3\rangle}
+\newcommand{\water}[2]{ #1,$^2$,#2}
+%\newcommand{\fr}{\frac}
+\newcommand{\mathfrc}[1]{\text{\textfrc{#1}}}
+\def\red{\color{red}}
+\def\blue{\color{blue}}
+\def\green{\color{green}}
+\def\violet{\color{violet}}
+\def\orange{\color{orange}}
+\DeclareFontFamily{OT1}{pzc}{}
+\DeclareFontShape{OT1}{pzc}{m}{it}%
+{<-> s * [0.900] pzcmi7t}{}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}%
+{m}{it}
+\DeclareMathAlphabet{\mathcalligra}{T1}{calligra}{m}{n}
+\usepackage{hyperref}
+\hypersetup{pdfauthor={me}, colorlinks=true, citecolor=blue, urlcolor=blue, linkcolor=black}
+\renewcommand{\topfraction}{0.9}	 
+\renewcommand{\bottomfraction}{0.8} 
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{2}   
+\setcounter{dbltopnumber}{2}   
+\renewcommand{\dbltopfraction}{0.9}	 
+\renewcommand{\textfraction}{0.07}	 
+\renewcommand{\floatpagefraction}{0.7}
+\renewcommand{\dblfloatpagefraction}{0.7}	
+
+\renewcommand{\bibname}{References}
+
+%\numberwithin{equation}{section}
+
+\author{Dulitha Mahesh Jayakody Jayakodige}
+
+\credentials{B.S., University of Colombo}
+
+\advisor{Jose L. Goity, Ph.D.}
+
+\abstractpageadvisor{Prof. Jose L. Goity}  %This is the name of your advisor as it
+%should
+                                                 % appear on the Abstract page.
+\date{April 2024}
+
+\degree{Doctor of Philosophy}
+
+\department{Department of Physics}
+
+\dean{xxxxxxxxxx, Ph.D.}
+
+\member{Alberto Accardi, Ph.D.}
+\member{Michael Kohl, Ph.D.}
+\member{Christian Weiss, Ph.D.}
+
+
+\title{Pion Nucleon Scattering \\ in BChPT combined with $\mathbf{1/N_c}$ expansion}
+
+\begin{document}
+
+%------------------------- Preliminary Pages -------------------------%
+
+%\coversheet
+
+
+\frontmatter
+
+\maketitle
+%\begin{tab
+
+\cleardoublepage
+
+\makesignature
+
+\copyrightpage[2023]
+\title{Pion Nucleon Scattering in BChPT combined with $\mathbf{1/N_c}$ expansion}
+
+\begin{abstract}
+%Abstract section
+Abstract goes here 
+
+
+\end{abstract}
+
+%\topskip0pt   
+%\vspace{\fill}
+%\centerline{Dedicated to my parents.}
+%\vspace{\fill} 
+
+\begin{dedication}
+\centerline{\emph{Dedicated to my parents.}}
+\end{dedication}
+
+\begin{Acknowledgements}
+Acknowledgements goes here
+\end{Acknowledgements}
+
+\tableofcontents
+
+\listoftables
+
+\listoffigures
+
+
+%------------------------- Main Body -------------------------%
+
+\mainmatter
+
+% Here the Chapters Starts
+% each of these call a different file of the same name... ie. introduction.tex,
+\include{introPiN}    
+\include{introBChPTwithNc}           % theory* 
+\include{PiNScatAmp}   
+\include{LoopInt}
+\include{OperatorRelations}
+\include{LeadingOrder}
+\include{NNLO}
+\include{Renormalization}
+
+%\addcontentsline{toc}{chapter}{\numberline{~}BIBLIOGRAPHY}
+\addcontentsline{toc}{chapter}{\numberline{~}REFERENCES}
+
+\bibliographystyle{unsrt}
+%\bibliographystyle{unsrt}
+%\bibliographystyle{ieeetr}
+% the next line is the file name of your bibtex database...
+\bibliography{ref}
+%J.F. Donoghue,H.R.Hostein,B.Borasoy-1999
+\appendix
+\include{appendixA}
+\include{appendixB}
+
+%\begin{VITA}
+%\include{vita}
+%\end{VITA}
+
+
+\end{document}
+

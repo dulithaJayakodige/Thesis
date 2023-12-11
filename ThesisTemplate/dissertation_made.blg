@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertation_made.aux
+A level-1 auxiliary file: introPiN.aux
+A level-1 auxiliary file: introBChPTwithNc.aux
+A level-1 auxiliary file: PiNScatAmp.aux
+A level-1 auxiliary file: LoopInt.aux
+A level-1 auxiliary file: OperatorRelations.aux
+A level-1 auxiliary file: LeadingOrder.aux
+A level-1 auxiliary file: NNLO.aux
+A level-1 auxiliary file: Renormalization.aux
+The style file: unsrt.bst
+I couldn't open database file ref.bib
+---line 32 of file dissertation_made.aux
+ : \bibdata{ref
+ :             }
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: appendixA.aux
+A level-1 auxiliary file: appendixB.aux
+I found no \citation commands---while reading file dissertation_made.aux
+I found no database files---while reading file dissertation_made.aux
+You've used 0 entries,
+            1791 wiz_defined-function locations,
+            455 strings with 3682 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+(There were 3 error messages)

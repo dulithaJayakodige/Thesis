@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertation_made.aux
+A level-1 auxiliary file: introPiN.aux
+A level-1 auxiliary file: introBChPTwithNc.aux
+A level-1 auxiliary file: PiNScatAmp.aux
+A level-1 auxiliary file: LoopInt.aux
+A level-1 auxiliary file: OperatorRelations.aux
+A level-1 auxiliary file: LeadingOrder.aux
+A level-1 auxiliary file: NNLO.aux
+A level-1 auxiliary file: Renormalization.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: appendixA.aux
+A level-1 auxiliary file: appendixB.aux
+Database file #1: ChPT.bib
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            497 strings with 4475 characters,
+and the built_in function-call counts, 1171 in all, are:
+= -- 105
+> -- 50
+< -- 0
++ -- 19
+- -- 14
+* -- 94
+:= -- 198
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 45
+empty$ -- 111
+format.name$ -- 14
+if$ -- 247
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 5
+newline$ -- 28
+num.names$ -- 5
+pop$ -- 5
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 15
+stack$ -- 0
+substring$ -- 99
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 13
+width$ -- 6
+write$ -- 57
