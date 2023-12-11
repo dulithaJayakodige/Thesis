@@ -1,6 +1,7 @@
 \vspace {0.5in}
 \contentsline {chapter}{\numberline {1}INTRODUCTION TO PION NUCLEON SCATTERING}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}History of Pion Nucleon Scattering}{1}{section.1.1}%
-\contentsline {chapter}{\hbox to\@tempdima {\nobreakspace {}\hfil }REFERENCES}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Introduction to QCD}{2}{section.1.2}%
+\contentsline {chapter}{\hbox to\@tempdima {\nobreakspace {}\hfil }REFERENCES}{4}{section.1.2}%
 \centerline {}
 \centerline {\bf {APPENDICES}}
