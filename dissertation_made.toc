@@ -1,7 +1,24 @@
 \vspace {0.5in}
-\contentsline {chapter}{\numberline {1}INTRODUCTION TO PION NUCLEON SCATTERING}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {1}PION NUCLEON SCATTERING}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}History of Pion Nucleon Scattering}{1}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Introduction to QCD}{2}{section.1.2}%
-\contentsline {chapter}{\hbox to\@tempdima {\nobreakspace {}\hfil }REFERENCES}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.2}Introduction to QCD}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Symmetries of QCD}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Asymptotic Freedom and Confinement}{3}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Effective Field Theories}{3}{subsection.1.2.3}%
+\contentsline {chapter}{\numberline {2}BCHPT COMBINED WITH 1/Nc EXPANSION}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction to Chiral Perturbation Theory}{4}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Chiral Symmetry breaking}{4}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Chiral Lagrangian}{4}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Introduction to 1/Nc Expansion}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}BChPT combined with 1/Nc Expansion}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}History of BChPT combined with 1/Nc Expansion}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Zeta Expansion}{4}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Feynman Rules}{4}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Previous Work}{4}{subsection.2.3.4}%
+\contentsline {chapter}{\numberline {3}PION NUCLEON SCATTERING AMPLITUDE}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Pion Nucleon T matrix Calculation}{5}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Chiral Symmetry breaking}{5}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Chiral Lagrangian}{5}{subsection.3.1.2}%
+\contentsline {chapter}{\hbox to\@tempdima {\nobreakspace {}\hfil }REFERENCES}{6}{subsection.3.1.2}%
 \centerline {}
 \centerline {\bf {APPENDICES}}
