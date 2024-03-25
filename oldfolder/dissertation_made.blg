@@ -1,20 +1,21 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: dissertation_made.aux
-A level-1 auxiliary file: 1_introPiN.aux
-A level-1 auxiliary file: 2_BChPTwithNc.aux
-A level-1 auxiliary file: 3_LOScatAmp.aux
-A level-1 auxiliary file: 4_SFOperators.aux
-A level-1 auxiliary file: 5_LoopInt.aux
-A level-1 auxiliary file: 6_NNLOScatAmp.aux
-A level-1 auxiliary file: 7_Renomalization.aux
+A level-1 auxiliary file: introPiN.aux
+A level-1 auxiliary file: introBChPTwithNc.aux
+A level-1 auxiliary file: PiNScatAmp.aux
+A level-1 auxiliary file: LoopInt.aux
+A level-1 auxiliary file: OperatorRelations.aux
+A level-1 auxiliary file: LeadingOrder.aux
+A level-1 auxiliary file: NNLO.aux
+A level-1 auxiliary file: Renormalization.aux
 The style file: unsrt.bst
 A level-1 auxiliary file: appendixA.aux
 A level-1 auxiliary file: appendixB.aux
 Database file #1: ChPT.bib
 You've used 5 entries,
             1791 wiz_defined-function locations,
-            496 strings with 4467 characters,
+            497 strings with 4475 characters,
 and the built_in function-call counts, 1171 in all, are:
 = -- 105
 > -- 50

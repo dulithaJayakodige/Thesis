@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  24 MAR 2024 23:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.15)  24 MAR 2024 14:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,10 +582,9 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count312
 \l__pdf_internal_box=\box67
 )
-(./dissertation_made.aux (./1_introPiN.aux) (./2_BChPTwithNc.aux)
-(./3_LOScatAmp.aux) (./4_SFOperators.aux) (./5_LoopInt.aux)
-(./6_NNLOScatAmp.aux) (./7_Renomalization.aux) (./appendixA.aux)
-(./appendixB.aux))
+(./dissertation_made.aux (./introPiN.aux) (./BChPTwithNc.aux) (./LOScatAmp.aux)
+(./LoopInt.aux) (./OperatorRelations.aux) (./LeadingOrder.aux) (./NNLO.aux)
+(./Renormalization.aux) (./appendixA.aux) (./appendixB.aux))
 \openout1 = `dissertation_made.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -717,16 +716,15 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 140--140
 
 
 
-] [8])
+])
 \tf@toc=\write5
 \openout5 = `dissertation_made.toc'.
 
- [9]
-(./dissertation_made.lot)
+ [8] (./dissertation_made.lot)
 \tf@lot=\write6
 \openout6 = `dissertation_made.lot'.
 
- [10
+[9
 
 
 
@@ -734,14 +732,14 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 140--140
 \tf@lof=\write7
 \openout7 = `dissertation_made.lof'.
 
- [11
+ [10
 
 
 
 ]
-\openout2 = `1_introPiN.aux'.
+\openout2 = `introPiN.aux'.
 
- (./1_introPiN.tex
+ (./introPiN.tex
 Chapter 1.
 [1
 
@@ -749,111 +747,96 @@ Chapter 1.
 
 
 
-] [2] [3])
-\openout2 = `2_BChPTwithNc.aux'.
+] [2]) [3]
+\openout2 = `BChPTwithNc.aux'.
 
- (./2_BChPTwithNc.tex
+ (./BChPTwithNc.tex
 Chapter 2.
-[4
+) [4
 
 
 
 
-])
-\openout2 = `3_LOScatAmp.aux'.
+]
+\openout2 = `LOScatAmp.aux'.
 
- (./3_LOScatAmp.tex
+ (./LOScatAmp.tex
 Chapter 3.
-[5
+) [5
 
 
 
 
-])
-\openout2 = `4_SFOperators.aux'.
-
- (./4_SFOperators.tex
-Chapter 4.
-[6
+]
+\openout2 = `LoopInt.aux'.
 
 
+No file LoopInt.tex.
+\openout2 = `OperatorRelations.aux'.
 
+No file OperatorRelations.tex.
+\openout2 = `LeadingOrder.aux'.
 
-])
-\openout2 = `5_LoopInt.aux'.
+No file LeadingOrder.tex.
+\openout2 = `NNLO.aux'.
 
- (./5_LoopInt.tex
-Chapter 5.
-[7
+No file NNLO.tex.
+\openout2 = `Renormalization.aux'.
 
-
-
-
-])
-\openout2 = `6_NNLOScatAmp.aux'.
-
- (./6_NNLOScatAmp.tex
-Chapter 6.
-[8
+No file Renormalization.tex.
+(./dissertation_made.bbl) [6
 
 
 
 
-])
-\openout2 = `7_Renomalization.aux'.
-
- (./7_Renomalization.tex
-Chapter 7.
-[9
 
 
 
 
-]) (./dissertation_made.bbl) [10
 
 
 
-] [11
+
+
+
+
+
+
+
+] [7
 
 ]
 \openout2 = `appendixA.aux'.
 
- (./appendixA.tex
-Chapter A.
-) [12
 
-
-
-]
+No file appendixA.tex.
 \openout2 = `appendixB.aux'.
 
-
 No file appendixB.tex.
-(./dissertation_made.aux (./1_introPiN.aux) (./2_BChPTwithNc.aux)
-(./3_LOScatAmp.aux) (./4_SFOperators.aux) (./5_LoopInt.aux)
-(./6_NNLOScatAmp.aux) (./7_Renomalization.aux) (./appendixA.aux)
-(./appendixB.aux))
+(./dissertation_made.aux (./introPiN.aux) (./BChPTwithNc.aux) (./LOScatAmp.aux)
+(./LoopInt.aux) (./OperatorRelations.aux) (./LeadingOrder.aux) (./NNLO.aux)
+(./Renormalization.aux) (./appendixA.aux) (./appendixB.aux))
 Package rerunfilecheck Info: File `dissertation_made.out' has not changed.
-(rerunfilecheck)             Checksum: 63DC63E22EFB07403C8241F5DA2324F7;8240.
+(rerunfilecheck)             Checksum: D3D55C3F3DDE912D8E237A5FD9AE1B2E;4555.
  ) 
 Here is how much of TeX's memory you used:
- 14872 strings out of 480247
- 241574 string characters out of 5896151
- 524463 words of memory out of 5000000
- 32378 multiletter control sequences out of 15000+600000
+ 14840 strings out of 480247
+ 241275 string characters out of 5896151
+ 524043 words of memory out of 5000000
+ 32381 multiletter control sequences out of 15000+600000
  479233 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,14n,77p,1104b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,14n,77p,1102b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on dissertation_made.pdf (23 pages, 102428 bytes).
+Output written on dissertation_made.pdf (17 pages, 95947 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 370 compressed objects within 4 object streams
- 82 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
+ 52 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
 

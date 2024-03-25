@@ -456,7 +456,7 @@
   \begin{centering}
   %\@title.\\~(\@date)
   %\@title.\\
-  Pion Nucleon Scattering in BChPT combined with $1/N_c$ Expansion  \\(July 2024) \\
+  Pion Nucleon Scattering in BChPT combined with $1/N_c$ Expansion  \\(April 2024) \\
 
   \@author\bothIfSecond{,}~{\@credentials}
 

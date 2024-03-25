@@ -22,30 +22,6 @@
 \contentsline {section}{\numberline {3.3}Kinematics}{5}{section.3.3}%
 \contentsline {section}{\numberline {3.4}Isoscalar/Isovector spin-flip/spin-non-flip amplitudes}{5}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Comparison with experiment data}{5}{section.3.5}%
-\contentsline {chapter}{\numberline {4}SPIN FLAVOR OPERATORS}{6}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Spin flavor Operator Structures}{6}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Projections}{6}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Two body Operators}{6}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Three body Operators}{6}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Four body Operators}{6}{section.4.5}%
-\contentsline {chapter}{\numberline {5}LOOP INTEGRALS}{7}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Types of Loop Integrals}{7}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Feynman Parameter Integrals}{7}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Dimensional Regularization}{7}{section.5.3}%
-\contentsline {section}{\numberline {5.4}UV divergences}{7}{section.5.4}%
-\contentsline {chapter}{\numberline {6}SCATTERING AMPLITUDE TO ONE LOOP}{8}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Loop Diagrams}{8}{section.6.1}%
-\contentsline {section}{\numberline {6.2}UV Terms from Loop Diagrams}{8}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Finite Terms from Loop Diagrams}{8}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}No-pole terms}{8}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}One-pole terms}{8}{subsection.6.3.2}%
-\contentsline {subsection}{\numberline {6.3.3}Two-pole terms}{8}{subsection.6.3.3}%
-\contentsline {section}{\numberline {6.4}gA4 Diagrams}{8}{section.6.4}%
-\contentsline {section}{\numberline {6.5}gA2 Diagrams}{8}{section.6.5}%
-\contentsline {section}{\numberline {6.6}gA0 Diagrams}{8}{section.6.6}%
-\contentsline {chapter}{\numberline {7}RENORMALIZATION}{9}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Leading Order Diagrams}{9}{section.7.1}%
-\contentsline {chapter}{\hbox to\@tempdima {\nobreakspace {}\hfil }REFERENCES}{10}{section.7.1}%
+\contentsline {chapter}{\hbox to\@tempdima {\nobreakspace {}\hfil }REFERENCES}{6}{section.3.5}%
 \centerline {}
 \centerline {\bf {APPENDICES}}
-\contentsline {chapter}{\numberline {A}LOOP INTEGRALS}{12}{appendix.A}%
